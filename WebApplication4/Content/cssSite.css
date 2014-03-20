@@ -1,0 +1,81 @@
+﻿body
+ {
+   font-family:'verdana';
+    background-color:#FFFFFF;
+}
+footer
+{
+    margin:300px;
+    text-align:center;
+    color:#000000;
+}
+#option
+{
+
+float:left;
+margin-left:70px;
+}
+a
+{
+   text-decoration:none;
+    color:#000000;
+}
+a:hover
+{
+    color:#000000;
+}
+#seach
+{
+    margin-left:210px;
+}
+#pesquisa
+{
+   color:#000000;
+   text-align:center;
+}
+footer
+{
+float:inherit;
+}
+#painelLogin{
+    padding:50px;
+    background-color:#d3d3d3;
+    position:fixed;
+    margin:100px 500px ;
+}
+fieldset
+{
+    position:fixed;
+}
+#tabela
+{  
+   margin:100px 400px;
+}
+
+td
+{
+    color:#000000;
+    padding:15px 20px;
+}
+#DadosEmpresa
+{
+    margin:100px 300px ;
+    font-size:20px;
+}
+
+#resultado{
+    padding:10px;
+    margin:20px;
+    float:left;
+}
+p{
+    color:#000000;
+}
+#login
+{
+    margin-left:1200px;
+}
+#DadosUsuario
+{
+    margin-left:1200px;
+}

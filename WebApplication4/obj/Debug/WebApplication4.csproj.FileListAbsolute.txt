@@ -1,0 +1,36 @@
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.dll
+c:\users\mierez\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Carlos Henrique\Documents\Visual Studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
